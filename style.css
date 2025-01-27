@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url('images/Untitled\ design.png');
+    background-image: url('images/backgound.png');
     background-position:   center;
     background-size: cover;
     background-repeat:no-repeat ;
@@ -352,7 +352,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url('/images/RishabhImg.jpeg');
+        background-image: url('/images/bg.jpeg');
         background-position:center;
     }
     .header-text{
